@@ -4,3 +4,6 @@
 [submodule "core/ten_gn"]
 	path = core/ten_gn
 	url = https://github.com/TEN-framework/ten_gn.git
+[submodule "ai_agents/agents/examples/ego-chat-app-ten"]
+	path = ai_agents/agents/examples/ego-chat-app-ten
+	url = git@github.com:egotv/ego-chat-app-ten.git

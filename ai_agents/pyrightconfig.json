@@ -1,8 +1,6 @@
 {
     "typeCheckingMode": "basic",
     "reportUnusedCoroutine": "error",
-    "reportMissingAwait": "error",
-    "reportUnawaitedAsyncFunctions": "error",
     "reportArgumentType": false,
     "reportMissingParameterType": false,
     "reportAssignmentType": false,
