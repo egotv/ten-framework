@@ -33,6 +33,13 @@
             ]
         },
         {
+            "root": "agents/examples/ego-chat-app-ten",
+            "extraPaths": [
+                "agents/examples/ego-chat-app-ten/tenapp/ten_packages/system/ten_runtime_python/interface",
+                "agents/examples/ego-chat-app-ten/tenapp/ten_packages/system/ten_ai_base/interface"
+            ]
+        },
+        {
             "root": "agents/examples/stepfun-demo",
             "extraPaths": [
                 "agents/examples/stepfun-demo/tenapp/ten_packages/system/ten_runtime_python/interface",
